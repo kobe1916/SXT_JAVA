@@ -3,6 +3,12 @@
  * @author lhy
  *
  */
+/*
+ * 1.String类又称作不可变字符序列
+2.String位于java.lang 包中，Java程序默认导入java.lang 包下所有类
+3.Java字符都是Unicode编码
+4.Java没有内置的字符串类型，每个用双引号括起来的字符串都是String类的一个实例
+ */
 public class TestString {
 	public static void main(String[] args) {
 		String str = "abc";
