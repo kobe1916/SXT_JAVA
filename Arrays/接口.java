@@ -6,6 +6,7 @@
 4.常量：接口中属性只能是常量，总是：public static final修饰。不写也是
 5.方法：接口中方法只能是：public abstract 省略的话也是public abstract
 
+
 要点：
 1.子类通过implements来实现接口中的规范
 2.接口不能创建实类，但是可用于声明引用变量类型
